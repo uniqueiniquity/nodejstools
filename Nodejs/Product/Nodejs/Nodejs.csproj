@@ -767,6 +767,20 @@
     </ZipProject>
     <ZipProject Include="ProjectTemplates\AzureNodejsWorker\package.json" />
     <ZipProject Include="ProjectTemplates\AzureNodejsWorker\README.md" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\JavaScriptWorkerRole.njsproj">
+      <SubType>Designer</SubType>
+    </ZipProject>
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\Preview.png" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\worker.js" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\startup.js" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\JavaScriptWorkerRole.vstemplate">
+      <SubType>Designer</SubType>
+    </ZipProject>
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\download.ps1" />	
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\node.cmd" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\package.json" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\README.md" />
+    <ZipProject Include="ProjectTemplates\JavaScriptWorkerRole\setup_worker.cmd" />    
     <ZipItem Include="Templates\Files\MochaUnitTest\UnitTest.vstemplate">
       <SubType>Designer</SubType>
     </ZipItem>
